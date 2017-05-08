@@ -1,4 +1,4 @@
-You will use this exact Makefile for your Homework 2. If you need to change it, please consult with me first.
+These programs are solutions to the problems provided in the assignment.pdf file
 
 You can compile everything by typing 
 
